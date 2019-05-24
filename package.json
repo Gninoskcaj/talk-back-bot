@@ -1,6 +1,6 @@
 {
   "name": "talk-back-bot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A virtual assistant that works",
   "main": "index.js",
   "scripts": {
