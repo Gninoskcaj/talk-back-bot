@@ -1,7 +1,7 @@
 {
   "name": "talk-back-bot",
-  "version": "0.0.1",
-  "description": "A virtual assistant that works",
+  "version": "0.1.1",
+  "description": "A Programable Virtual Assistsant",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
