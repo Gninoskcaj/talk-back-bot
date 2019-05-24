@@ -5,6 +5,9 @@
 
 - [Docs for: `exeCommand()`](./exeCommand.md)
 
-- [Contribute](./contribute.md)
 
 - [Program the bot](./program.md)
+
+
+Find a Bug?
+[Submit an issue](https://github.com/Gninoskcaj/easy-math-module/issues/new/choose)
