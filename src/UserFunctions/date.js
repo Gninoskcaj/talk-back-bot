@@ -20,13 +20,17 @@ function convertMilitary() {
 	let min = m
 
 	// Figure AM or PM
-	if (h > 13) {
+	if (h > 12) {
 		whatM = 'PM'
 	} else {
 		whatM = 'AM'
 	}
 	if (whatM === 'PM') {
-		hours = time[indexof(h)]
+		for (let x in military) {
+			if (h === military[x]) {
+				hours = time[x]
+			}
+		}
 	} else {
 		hours = h
 	}
