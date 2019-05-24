@@ -1,3 +1,5 @@
+
+
 let data = require('./data')
 function exeCommand(input) {
 	for (let x in data.commands) {
