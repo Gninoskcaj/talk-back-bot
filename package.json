@@ -1,5 +1,5 @@
 {
-  "name": "talk-back",
+  "name": "talk-back-bot",
   "version": "0.0.0",
   "description": "A virtual assistant that works",
   "main": "index.js",
