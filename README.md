@@ -1,6 +1,8 @@
 # Talk-Back-Bot
 A Programable Virtual Assistsant
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/35f5873b91224ef9834d71e4a049b97b)](https://app.codacy.com/app/Gninoskcaj/talk-back?utm_source=github.com&utm_medium=referral&utm_content=Gninoskcaj/talk-back&utm_campaign=Badge_Grade_Dashboard)
+
 [![npm](https://img.shields.io/npm/v/talk-back-bot.svg?color=green&label=npm)](https://www.npmjs.com/package/talk-back-bot)
 [![NPM](https://img.shields.io/npm/l/talk-back-bot.svg)](https://angular.io/license)
 
@@ -40,3 +42,6 @@ A Programable Virtual Assistsant
 
 Find a Bug?
 [Submit an issue](https://github.com/Gninoskcaj/easy-math-module/issues/new/choose)
+# Talk-Back
+
+
