@@ -10,7 +10,7 @@
 			"q": [
 				"hey what is the time?",
 				"time?",
-				"Whats the time",
+				"whats the time",
 				"what is the time?",
 				"witt"
 

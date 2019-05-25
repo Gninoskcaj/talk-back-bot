@@ -1,7 +1,7 @@
 let data = require('./data')
-const correct = require('./autoCorrect/correctRestrict')
+const correct = require('./autoCorrect/correct')
 function exeCommand(input) {
-	//input = correct.correct(input)
+	input = correct.correct(input)
 	for (let x in data.commands) {
 		for (let i in data.commands[x].q) {
 			if (input === data.commands[x].q[i]) {
@@ -13,4 +13,4 @@ function exeCommand(input) {
 }
 
 
-console.log(exeCommand('witt'))
+console.log(exeCommand('whats the time'))

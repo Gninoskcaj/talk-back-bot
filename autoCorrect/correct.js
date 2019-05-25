@@ -14,7 +14,8 @@ function correct(input) {
 			})
 		}
 	}
+	console.log(result)
 	return result;
 }
 
-console.log(correct('hi my nam is chickin'))
+module.exports.correct = correct
