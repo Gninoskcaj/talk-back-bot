@@ -1,6 +1,6 @@
- let datajs = require('./src/UserFunctions/date');
+let datajs = require('./src/UserFunctions/date');
  
- var data = JSON.parse(`{
+let data = JSON.parse(`{
 
 	"name": "",
 	"gender": "",
