@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Gninoskcaj/talk-back/issues"
   },
-  "homepage": "https://github.com/Gninoskcaj/talk-back#readme"
+  "homepage": "https://github.com/Gninoskcaj/talk-back#readme",
+  "dependencies": {
+    "fuzzyset.js": "0.0.8"
+  }
 }
