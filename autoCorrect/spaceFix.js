@@ -34,6 +34,4 @@ function compareArrays(array, spellChecked) {
 }
 
 
-console.log(checkIfSpelledGood('this is a word sdfhsdjhfbsj happy dbsfb dfka bad'))
-
-
+module.exports.checkIfSpelledGood = checkIfSpelledGood;
