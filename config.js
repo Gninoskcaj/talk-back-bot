@@ -1,4 +1,4 @@
-let datajs = require('./src/UserFunctions/date');
+let uf = require('./src/UserFunctions');
  
 let data = JSON.parse(`{
 
@@ -17,7 +17,7 @@ let data = JSON.parse(`{
 				"what time is it"
 
 			],
-			"a": "${datajs.getTheDate()}"
+			"a": "${uf.current('time')}"
 		},
 		{
 			"q": [
