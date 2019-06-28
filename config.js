@@ -2,8 +2,8 @@ let datajs = require('./src/UserFunctions/date');
  
 let data = JSON.parse(`{
 
-	"name": "",
-	"gender": "",
+	"name": "Roby",
+	"gender": "Male",
 	"language": "English",
 	"commands": [
 		{
@@ -12,7 +12,9 @@ let data = JSON.parse(`{
 				"time?",
 				"whats the time",
 				"what is the time?",
-				"witt"
+				"witt",
+				"what time is it?",
+				"what time is it"
 
 			],
 			"a": "${datajs.getTheDate()}"

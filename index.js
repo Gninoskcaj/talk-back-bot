@@ -1,4 +1,4 @@
-let data = require('./data')
+let data = require('./config')
 const correct = require('./autoCorrect/correct')
 function exeCommand(input) {
 	input = correct.correct(input)
@@ -11,6 +11,6 @@ function exeCommand(input) {
 	}
 	return 'I am sorry, but I didn\'t quite get that.'
 }
+const q = prompt('What is your question?')
 
-
-console.log(exeCommand('whats the time'))
+console.log(exeCommand(q))
