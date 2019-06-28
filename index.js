@@ -11,6 +11,5 @@ function exeCommand(input) {
 	}
 	return 'I am sorry, but I didn\'t quite get that.'
 }
-const q = prompt('What is your question?')
 
-console.log(exeCommand(q))
+console.log(exeCommand('witt'))
